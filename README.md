@@ -1,4 +1,4 @@
-# churns_predict
+# Classification: Predict if customers will get churned
 This is a project of implementing machine learning algorithms to real world problem. 
 The topic I choose is to build a classifier to predict churning credit card customers.
 The dataset consists of over 10000 credit card customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are 18 features in total. 
